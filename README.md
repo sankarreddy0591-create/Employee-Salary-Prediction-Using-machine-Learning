@@ -131,10 +131,41 @@ The dataset contains the following employee-related variables:
 - Development Environment :	VS Code / Jupyter Notebook
 
 
-## 9. Methodology
+## 9. Methodology WorkFlow
 ---
 The project follows a complete Data Science and Machine Learning workflow.
+```
 
+      Import libraries
+        ↓
+      Load Dataset
+        ↓
+    Understand data
+        ↓
+        EDA
+        ↓
+    Feature Selection
+        ↓
+    Select Target
+        ↓
+    Train-Test Split
+        ↓
+    Linear Regression
+        ↓
+    Prediction
+        ↓
+    Evaluation
+        ↓
+    Model Performance Check
+        ↓
+    Sava model
+        ↓
+    Create Prediction Application
+        ↓
+    Test Application    
+
+
+```
 ### Step 1: Data Collection
 
 The Employee Salary dataset is obtained in Excel format and stored in the project data folder.
